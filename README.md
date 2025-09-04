@@ -12,7 +12,7 @@ npm run build
 4. Deploy to GitHub Pages
 bash
 npm run deploy
-Live at:
+Live at: https://rajveersingh086.github.io/quiz-app/
 QUICK START 
 git clone <your-repo-url>
 cd quiz-app
